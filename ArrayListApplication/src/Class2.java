@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class Class1 {
+public class Class2 {
 
 	public static void main(String[] args) {
 
